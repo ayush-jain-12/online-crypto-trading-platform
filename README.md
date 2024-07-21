@@ -1,6 +1,8 @@
 # online-crypto-trading-platform
 Java Full Stack Online Crypto Trading Platform using Spring Boot and React
 
+![Screenshot 2024-07-22 000551](https://github.com/user-attachments/assets/086a903a-4586-4aca-b5e2-f475ac36caa9)
+
 AI Chat Bot : Leverage our AI Chat Bot, designed to handle crypto-related queries like value of crypto and market data using Gemini API and CoinGecko API for real-time data.
 
 Buy & Sell Crypto : Facilitate smooth crypto transactions with a user-friendly buy and sell interface, supporting a wide array of cryptocurrencies.
